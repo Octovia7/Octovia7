@@ -1,16 +1,12 @@
-# 🚀 Rudraksh Soni
-
 ## 🌟 About Me:
-🌱 I’m currently learning DSA and improving my backend development skills.  
-💡 Passionate about **backend development, databases, and cloud computing**.  
-🎯 Focused on **building scalable and optimized web applications**.  
+🌱 I’m currently learning DSA  
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudrasoni___/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-soni-082aa82b9/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraksh1414@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudrasoni___/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-soni-082aa82b9/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraksh1414@gmail.com)  
 
 ---
 
@@ -52,42 +48,12 @@
 ---
 
 ## 📈 Contribution Graph:
-![Rudraksh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octovia7&theme=react-dark)
+![Rudraksh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octovia7&theme=react-dark)  
 
 ---
 
 ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/Octovia7/Octovia7/blob/output/github-contribution-grid-snake.svg)
 
-
----
-
-## 📊 GitHub Stats:
-![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Octovia7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Octovia7&layout=compact&theme=radical)
-
-
----
-
-### ✍️ **Random Dev Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 📌 **Popular Repositories**
-[![WanderLust-MP1](https://github-readme-stats.vercel.app/api/pin/?username=irudraksh&repo=WanderLust-MP1&theme=radical)](https://github.com/irudraksh/WanderLust-MP1)  
-[![Zerodha-MP](https://github-readme-stats.vercel.app/api/pin/?username=irudraksh&repo=Zerodha-MP&theme=radical)](https://github.com/irudraksh/Zerodha-MP)  
-[![E-commerce-ReactApp](https://github-readme-stats.vercel.app/api/pin/?username=irudraksh&repo=e-commerce-ReactApp&theme=radical)](https://github.com/irudraksh/e-commerce-ReactApp)  
-[![Flux-video-conferencing](https://github-readme-stats.vercel.app/api/pin/?username=irudraksh&repo=Flux-video-conferencing&theme=radical)](https://github.com/irudraksh/Flux-video-conferencing)  
-
----
-
-### 📈 **Contribution Graph**
-![Rudraksh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=irudraksh&theme=react-dark)
-
----
-
-### 🐍 **Contribution Snake**
-![Snake animation](https://github.com/irudraksh/irudraksh/blob/output/github-contribution-grid-snake.svg)
 
 
