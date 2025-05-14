@@ -52,8 +52,6 @@
 
 ---
 
-## 🐍 Contribution Snake:
-![Snake animation](https://github.com/Octovia7/Octovia7/blob/output/github-contribution-grid-snake.svg)
 
 
 
