@@ -52,6 +52,9 @@
 
 ---
 
+## 📍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Octovia7/Octovia7/output/github-contribution-grid-snake.svg)
 
 
 
