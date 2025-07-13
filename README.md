@@ -52,6 +52,10 @@
 
 ---
 
+## 🐍 Contribution Snake (Pending Fix)
+<!-- This will show your animated contribution snake once the workflow succeeds -->
+![Snake animation](https://github.com/Octovia7/Octovia7/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 
