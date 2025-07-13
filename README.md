@@ -50,9 +50,5 @@
 ## 📈 Contribution Graph:
 ![Rudraksh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octovia7&theme=react-dark)  
 
-## 📍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Octovia7/Octovia7/output/github-contribution-grid-snake.svg)
-
 
 
