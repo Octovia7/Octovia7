@@ -51,11 +51,8 @@
 ![Rudraksh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octovia7&theme=react-dark)  
 
 ---
+## 📍 Contribution Snake
 
-## 🐍 Contribution Snake (Pending Fix)
-<!-- This will show your animated contribution snake once the workflow succeeds -->
-![Snake animation](https://github.com/Octovia7/Octovia7/blob/output/github-contribution-grid-snake.svg)
-
----
+![snake gif](https://raw.githubusercontent.com/Octovia7/Octovia7/output/github-contribution-grid-snake.svg)
 
 
