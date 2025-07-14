@@ -1,5 +1,5 @@
 ## 🌟 About Me:
-🌱 I’m currently learning DSA  
+I’m currently learning DSA  
 
 ---
 
